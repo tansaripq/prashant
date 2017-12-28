@@ -1,0 +1,4 @@
+SFDC_SPECIALIST=UserId
+SPECIALIST_ROLE=TeamMemberRole
+HEADER_ID=Opportunity\:APTPS_External_Id__c
+RENEWAL_LOAD_TYPE=Renewal_Type__c

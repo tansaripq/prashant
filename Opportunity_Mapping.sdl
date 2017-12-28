@@ -1,0 +1,24 @@
+#Mapping values
+#Tue Dec 19 17:18:51 EST 2017
+START_DATE=Start_Date__c
+FORECAST_CATEGORY=Forecast_Category_Custom__c
+SFDC_SHIP_ADDRESS_ID=ShipAccount_Address__c
+HEADER_ID=APTPS_External_Id__c
+HDR_PO_NUMBER=Cust_PO__c
+BILL_TO_ACCOUNT_ID=APTPS_Bill_To_Account__c
+PRICE_BOOK_ID=Pricebook2Id
+STAGE_NAME=StageName
+TYPE=Type
+SHIP_TO_ACCOUNT_ID=APTPS_Ship_To_Account__c
+DESCRIPTION=Description
+SFDC_BILL_ADDRESS_ID=InvoiceAccount_Address__c
+RENEWAL_LOAD_TYPE=Renewal_Type__c
+INVOICED=Invoice_Status__c
+FORECAST_DATE=CloseDate
+OPPORTUNITY_OWNER=OwnerId
+SFDC_ACCOUNT_NO=AccountId
+CURRENCY_CODE=CurrencyIsoCode
+SFDC_PROPOSAL_NAME=Name
+END_DATE=End_Date__c
+RECORD_TYPE=RecordTypeId
+ACTUAL_TOTAL_PRICE=Amount

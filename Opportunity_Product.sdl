@@ -1,0 +1,9 @@
+#Mapping values
+#Tue Dec 19 17:21:51 EST 2017
+LIST_QTY=Quantity
+NET_PRICE=TotalPrice
+EBS_LINE_ID=EBS_Line_Id__c
+ACTUAL_TOTAL_PRICE=PQ_Actual_Total_Price__c
+LINE_DESCRIPTION=Description
+HEADER_ID=Opportunity\:APTPS_External_Id__c
+PRICE_BOOK_ENTRY_ID=PricebookEntryId

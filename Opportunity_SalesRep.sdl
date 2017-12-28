@@ -1,0 +1,4 @@
+OPPORTUNITY_OWNER=UserId
+HEADER_ID=Opportunity\:APTPS_External_Id__c
+RENEWAL_LOAD_TYPE=Renewal_Type__c
+SALES_REP_ROLE=TeamMemberRole
